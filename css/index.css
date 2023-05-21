@@ -1,0 +1,62 @@
+/*******************************TAGS SELECTORS*********************************/
+
+body{
+    background-color: #FEFFDF;
+    background-image: url("10.jpeg");
+    background-image: url(https://images.unsplash.com/photo-1560336767-cce3c1974325?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
+}
+hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 9px;
+    width: 30%;
+    box-sizing: 20;
+}
+img{
+    height: 300px;
+    width: 250px;
+    background-image: url(https://images.unsplash.com/photo-1560336767-cce3c1974325?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
+}
+h1{
+    color: #990000;
+    
+}
+
+h3{
+    color: #FFA952;
+}
+
+
+/**************************************Class Selectors************************************/
+/*.edu{
+    color: #111ecde4;
+}
+.hobb{
+    color: aqua;
+}
+*/
+.isha{
+    color: #990000;
+}
+.isha1{
+    float: right; padding-right: 200px; padding-left: 50px;
+}
+.hobbies{
+    text-align: center;
+}
+ol.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+/**********************************Id Selectors*************************************/
+/*#heading{
+    color: black;
+}
+*/
+#img{
+    border: 20px solid #850E35;
+    /* position: relative; */
+    /* display: inline-block; */
+    /* float: left; */
+    
+}
